@@ -1,4 +1,4 @@
-# Minimal TWRP Tree for BLU R1 PLUS  by Alando0123  for Stock Android 6.0  
+# Minimal TWRP Tree for BLU R1 PLUS  by GrandMasterHokage  for Stock Android 6.0  
 Recommended to be used with [Minimal TWRP Manifest](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni).
 To initialize your local repository using this tree, use a command like this within the source directory:
 ```
